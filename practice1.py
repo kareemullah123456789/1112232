@@ -5,3 +5,7 @@ print(x)
 y = x+[5]
 
 print(y)
+
+
+k = 5
+print(k)

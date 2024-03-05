@@ -1,3 +1,8 @@
 git init
 git add .
 git commmit -m
+
+git branch ( to check branch)
+
+
+ git log -p  (see difference)
