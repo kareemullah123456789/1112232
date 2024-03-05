@@ -9,3 +9,5 @@ print(y)
 
 k = 5
 print(k)
+
+y = 9
