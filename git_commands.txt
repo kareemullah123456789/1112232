@@ -6,3 +6,14 @@ git branch ( to check branch)
 
 
  git log -p  (see difference)
+
+
+branching
+git branch experimental
+
+git branch
+
+we have to make changes in folder commit from new branch "exxperimental"
+
+
+in master>>git merge ( will merge master and experimental)
